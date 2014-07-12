@@ -1,0 +1,28 @@
+/* Estilos del Formulario */
+.contenedor{
+	margin:auto;
+	width: 100%;
+}
+.panel_menu{
+	width: auto;
+}
+.panel_respuesta{
+	width: 100%;
+	float: left;
+}
+.panel_add{
+	width: 20%;
+	margin-right: 5%;
+
+	float: left;
+}
+.panel_busqueda{
+	width: 50%;
+	margin-right: 5%;
+
+	float: left;
+}
+.panel_exit{
+	width: 20%;
+	float: left;
+}
